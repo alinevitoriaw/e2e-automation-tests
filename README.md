@@ -120,6 +120,6 @@ Ambos os testes estão funcionando com 100% de sucesso:
 
 ---
 
-**Desenvolvido por**: [Seu Nome]  
-**Data**: Janeiro 2025  
-**Propósito**: Teste Prático - Vaga QA Automation
+**Desenvolvido por**: Aline Nunes  
+**Data**: Setembro 2025  
+**Propósito**: Teste Prático de QA
